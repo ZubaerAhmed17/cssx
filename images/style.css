@@ -1,0 +1,11 @@
+body {
+    background-image: url("background-image:url('images/bg.png');background-size:cover");
+}
+
+
+
+.headings{
+    color: white;
+    font-size: 3em;
+    font-family: century;
+}
